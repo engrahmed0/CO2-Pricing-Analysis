@@ -69,7 +69,6 @@ The study demonstrates how increasing CO₂ prices influence:
 - Carbon emissions
 - Economic feasibility
 - Renewable energy integration
-
 The results provide quantitative recommendations for sustainable residential energy planning.
 
 ## 7) Repository Structure
